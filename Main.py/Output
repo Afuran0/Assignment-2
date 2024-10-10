@@ -1,1 +1,11 @@
-
+PS C:\Users\amede\Downloads> & C:/Users/amede/AppData/Local/Microsoft/WindowsApps/python3.12.exe "c:/Users/amede/Downloads/Assignment 2-main.py"
+Data loaded successfully!
+Column names: Index(['Student ID', 'student_name', 'gender', 'grade', 'school_name',
+       'reading_score', 'math_score'],
+      dtype='object')
+   Student ID       student_name gender grade        school_name  reading_score  math_score
+0           0       Paul Bradley      M   9th  Huang High School             66          79
+1           1       Victor Smith      M  12th  Huang High School             94          61
+2           2    Kevin Rodriguez      M  12th  Huang High School             90          60
+3           3  Dr. Richard Scott      M  12th  Huang High School             67          58
+4           4         Bonnie Ray      F   9th  Huang High School             97          84
